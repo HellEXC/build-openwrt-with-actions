@@ -6,6 +6,8 @@ fork这个仓库。可选编译immortalwrt或者openwrt。可以上传.config也
 
     勾选了很多插件容易导致编译慢以及报错，建议按需勾选。以及自己慢慢测试，我自己编译是成功的。
 
+1.ssh 2.q 3.cd openWRT/ 4.touch /tmp/keepalive 5.make menuconfig 6.exit
+
 ## 默认.config如下
 
 - target x86/x86_64
