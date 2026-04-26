@@ -8,19 +8,4 @@ fork这个仓库。可选编译immortalwrt或者openwrt。可以上传.config也
 
 1.ssh 2.q 3.cd openWRT 4.touch /tmp/keepalive 5.make menuconfig 6.exit
 
-## 默认.config如下
-
-- target x86/x86_64
-- 160M 内核空间
-- 1600M root空间
-  
--------------------------------
-
-- network/adguardhome
-- luci-app-homeproxy
-- luci-app-openclash
-- luci-app-acme
-- luci-app-wol
-- luci-app-upnp
-- luci-app-n2n
   
