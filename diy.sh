@@ -23,6 +23,6 @@ echo "src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main" >>
 #git clone https://github.com/SunBK201/UA3F.git package/UA3F
 #git clone https://github.com/stevenjoezhang/luci-app-adguardhome.git package/ADGH
 git clone https://github.com/FUjr/QModem.git package/QModem
-#git clone https://github.com/nikkinikki-org/OpenWrt-nikki.git package/nikki
+git clone https://github.com/nikkinikki-org/OpenWrt-nikki.git package/nikki
 #git clone https://github.com/lonelysix-editor/luci-app-webui.git package/webui
 #git clone https://github.com/nikkinikki-org/OpenWrt-nikki.git package/nikki
